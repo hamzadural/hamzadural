@@ -17,4 +17,4 @@ def setup():
 def install():
     pisitools.insinto("/", "usr")
     pisitools.insinto("/", "opt")
-pisitools.insinto("/", "etc")
+    pisitools.insinto("/", "etc")
