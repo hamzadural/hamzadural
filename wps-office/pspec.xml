@@ -11,7 +11,7 @@
         <Summary>WPS Office Suite</Summary>
         <Description>WPS Office Suite</Description>
         <License>http://wps-community.org/license.md</License>
-        <Archive sha1sum="9974078cde40c26419998294a0a754bc102afe37" type="binary">http://kdl.cc.ksosoft.com/wps-community/download/8372/wps-office_11.1.0.8372_amd64.deb</Archive>
+        <Archive sha1sum="3b7a199c7da8ea64aaa2f00d6474a11c9714eb8a" type="binary">http://kdl.cc.ksosoft.com/wps-community/download/8372/wps-office_11.1.0.8372_amd64.deb</Archive>
 
         <BuildDependencies>
             <Dependency>binutils</Dependency>
